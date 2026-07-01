@@ -47,12 +47,12 @@
 
 ---
 ### あなたを信頼しなければならないから
-*(GitHub vai mostrar automaticamente os repositórios pinned)*
+
 
 ---
 
 <div align="center">
-  <strong>Vamos nos conectar!</strong><br><br>
+  <strong>Solidon</strong><br><br>
   <a href="https://linkedin.com/in/seuperfil">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
