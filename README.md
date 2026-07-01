@@ -17,8 +17,6 @@
 
 ### あなたを信頼しなければならないから
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
 
 ---
@@ -43,9 +41,6 @@
 
 ### あなたを信頼しなければならないから
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight&hide_border=true)
 
