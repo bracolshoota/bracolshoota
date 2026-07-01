@@ -5,7 +5,7 @@
 
 ---
 
-### About Me
+### あなたを信頼しなければならないから
 
 Sou um estudante de Ciência da Computação apaixonado por transformar ideias em interfaces escaláveis, bonitas e bem projetadas.
 
@@ -13,7 +13,7 @@ Atualmente trabalho no desenvolvimento de aplicações web e mobile, sempre prio
 
 ---
 
-### My Daily Driver
+### あなたを信頼しなければならないから
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
@@ -21,7 +21,7 @@ Atualmente trabalho no desenvolvimento de aplicações web e mobile, sempre prio
 
 ---
 
-### Tech Stack
+### あなたを信頼しなければならないから
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -31,7 +31,7 @@ Atualmente trabalho no desenvolvimento de aplicações web e mobile, sempre prio
 
 ---
 
-### Languages & Tools I Have Placed My Hands On
+### あなたを信頼しなければならないから
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,figma,vscode,python,java" />
@@ -39,7 +39,7 @@ Atualmente trabalho no desenvolvimento de aplicações web e mobile, sempre prio
 
 ---
 
-### Analytics
+### あなたを信頼しなければならないから
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)
 
@@ -48,8 +48,7 @@ Atualmente trabalho no desenvolvimento de aplicações web e mobile, sempre prio
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight&hide_border=true)
 
 ---
-
-### Projetos em Destaque
+### あなたを信頼しなければならないから
 *(GitHub vai mostrar automaticamente os repositórios pinned)*
 
 ---
