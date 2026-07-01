@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/SEU_ID" width="160" style="border-radius: 50%; border: 4px solid #a855f7;" />
-  <h1>Hi, I'm Seu Nome 👋</h1>
+  <img src="https://i.pinimg.com/736x/79/85/6e/79856efb154a875d5d32b8c987f1b0b4.jpg" width="160" style="border-radius: 50%; border: 4px solid #a855f7;" />
+  <h1>アーム</h1>
 </div>
 
 ---
