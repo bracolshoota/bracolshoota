@@ -18,6 +18,9 @@
 ### あなたを信頼しなければならないから
 
 ![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white)
+![Black](https://img.shields.io/badge/black-%23000000.svg?style=for-the-badge&logo=black&logoColor=white)
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+![MSI](https://img.shields.io/badge/msi-%23000000.svg?style=for-the-badge&logo=msi&logoColor=%23FF0000)
 
 ---
 
@@ -47,7 +50,7 @@
 ---
 ### あなたを信頼しなければならないから
 
-![Black](https://img.shields.io/badge/black-%23000000.svg?style=for-the-badge&logo=black&logoColor=white)
+
 ---
 
 <div align="center">
