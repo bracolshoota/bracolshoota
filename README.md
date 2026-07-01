@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/41/9c/09/419c0949eb2245ccef46dc841aed6032.jpg" width="160" style="border-radius: 50%; border: 4px solid #a855f7;" />
+  <img src="https://i.pinimg.com/1200x/41/9c/09/419c0949eb2245ccef46dc841aed6032.jpg" />
   <h1>アーム</h1>
 </div>
 
