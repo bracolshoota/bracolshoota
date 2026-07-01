@@ -34,7 +34,7 @@
 ### あなたを信頼しなければならないから
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,figma,vscode,python,java" />
+  <img src="https://i.pinimg.com/1200x/bd/78/b5/bd78b5912c2fa70bf2d2f31df24bbe87.jpg" />
 </div>
 
 ---
