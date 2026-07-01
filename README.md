@@ -7,9 +7,7 @@
 
 ### あなたを信頼しなければならないから
 
-Sou um estudante de Ciência da Computação apaixonado por transformar ideias em interfaces escaláveis, bonitas e bem projetadas.
-
-Atualmente trabalho no desenvolvimento de aplicações web e mobile, sempre priorizando código limpo, arquitetura sólida e ótima experiência do usuário.
+"I set my fangs on fire to reach the unattainable So I wouldn't have to face that star And wouldn't have to tear my throat."
 
 ---
 
