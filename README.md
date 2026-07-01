@@ -47,7 +47,7 @@
 ---
 ### あなたを信頼しなければならないから
 
-
+![Black](https://img.shields.io/badge/black-%23000000.svg?style=for-the-badge&logo=black&logoColor=white)
 ---
 
 <div align="center">
