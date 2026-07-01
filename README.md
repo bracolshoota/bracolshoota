@@ -6,16 +6,13 @@
 ---
 
 ### あなたを信頼しなければならないから
+ㅤㅤ
+ㅤㅤ
 
 "I set my fangs on fire to reach the unattainable So I wouldn't have to face that star And wouldn't have to tear my throat."
-
-
-
-
-
-
-
-
+ㅤㅤ
+ㅤㅤ
+ㅤㅤ
 ---
 
 ### あなたを信頼しなければならないから
