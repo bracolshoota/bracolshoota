@@ -56,6 +56,6 @@
 <div align="center">
   <strong>Solidon</strong><br><br>
   <a href="https://instagram.com/seuuser">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+    <img src="![Black](https://img.shields.io/badge/black-%23000000.svg?style=for-the-badge&logo=black&logoColor=white)" />
   </a>
 </div>
