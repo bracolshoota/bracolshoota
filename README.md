@@ -34,7 +34,7 @@
 ### あなたを信頼しなければならないから
 
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/bd/78/b5/bd78b5912c2fa70bf2d2f31df24bbe87.jpg" />
+  <img src="https://i.pinimg.com/1200x/f3/52/7f/f3527f41f06df2a44d5bd55a4b77c3df.jpg" />
 </div>
 
 ---
