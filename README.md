@@ -33,7 +33,7 @@ I set my fangs on fire to reach the unattainable So I wouldn't have to face that
 
 ---
 
-### あなたを信頼しなければならないから
+
 
 <div align="center">
   <img src="https://i.pinimg.com/1200x/f3/52/7f/f3527f41f06df2a44d5bd55a4b77c3df.jpg" />
