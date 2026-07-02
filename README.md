@@ -37,6 +37,7 @@ I set my fangs on fire to reach the unattainable So I wouldn't have to face that
 
 <div align="center">
   <img src="https://i.pinimg.com/1200x/f3/52/7f/f3527f41f06df2a44d5bd55a4b77c3df.jpg" />
+   <h1>私の弓は何ですか</h1>
 </div>
 
 ---
