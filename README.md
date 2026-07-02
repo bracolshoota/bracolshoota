@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/1200x/82/4a/44/824a447d4ee3654056d3ce12f3ed0a17.jpg" />
-  <h1>アーム</h1>
+  <h1>デル・ピエロは違った</h1>
 </div>
 
 ---
