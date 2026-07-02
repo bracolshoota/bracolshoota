@@ -5,7 +5,7 @@
 
 ---
 
-### あなたを信頼しなければならないから
+### スタークは最高だった 
 ㅤㅤ
 ㅤㅤ
 "I set my fangs on fire to reach the unattainable So I wouldn't have to face that star And wouldn't have to tear my throat"
@@ -15,7 +15,7 @@
 ㅤㅤ
 ---
 
-### あなたを信頼しなければならないから
+### デオキシスの最高のポケモン
 
 
 ![Black](https://img.shields.io/badge/black-%23000000.svg?style=for-the-badge&logo=black&logoColor=white)
@@ -45,7 +45,7 @@
 
 ---
 
-### あなたを信頼しなければならないから
+### ドリルストリーク
 
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight&hide_border=true)
