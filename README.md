@@ -50,7 +50,9 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight&hide_border=true)
 
 ---
+<div align="center">
 ### あなたを信頼しなければならないから
+</div>
 
 
 ---
