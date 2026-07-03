@@ -40,7 +40,7 @@
 
 
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/f3/52/7f/f3527f41f06df2a44d5bd55a4b77c3df.jpg" />
+  <img src="https://i.pinimg.com/736x/b9/fd/6c/b9fd6c0243862550fff24d8f4fcd9d3e.jpg" />
    <h1>私の弓は何ですか</h1>
 </div>
 
