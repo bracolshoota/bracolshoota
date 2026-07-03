@@ -3,7 +3,7 @@
   <h1>デル・ピエロは違った</h1>
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=14000&color=89F336&background=0D0D0D&center=true&vCenter=true&width=900&lines=%5Bcoun%40BracoIShoota+~%5D%23+./dead+--target+braco.com" />
 </div>
-<img src="https://github.com/MMVonnSeek/MMVonnSeek/edit/main/assets/violetblue.gif" width="100%" loading="lazy">
+<img src="assets/violetblue.gif" width="100%" loading="lazy">
 
 
 ### スタークは最高だった 
