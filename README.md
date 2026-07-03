@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/1200x/82/4a/44/824a447d4ee3654056d3ce12f3ed0a17.jpg" />
   <h1>デル・ピエロは違った</h1>
 </div>
-
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 ---
 
 ### スタークは最高だった 
