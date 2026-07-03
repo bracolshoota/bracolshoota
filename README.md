@@ -3,6 +3,7 @@
   <h1>デル・ピエロは違った</h1>
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=14000&color=EE0000&background=0D0D0D&center=true&vCenter=true&width=900&lines=%5Broot%40MMVonnSeek+~%5D%23+./recon_engine+--target+github.com" />
 </div>
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 
 ### スタークは最高だった 
@@ -13,7 +14,7 @@
 ㅤㅤ
 ㅤㅤ
 ㅤㅤ
-<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+
 
 ### デオキシスの最高のポケモン
 
