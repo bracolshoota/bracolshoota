@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/1200x/82/4a/44/824a447d4ee3654056d3ce12f3ed0a17.jpg" />
   <h1>デル・ピエロは違った</h1>
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=14000&color=11265C&background=0D0D0D&center=true&vCenter=true&width=900&lines=%5Bcoun%40BracoIShoota+~%5D%23+./dead+--target+braco.com" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=14000&color=2323FF&background=0D0D0D&center=true&vCenter=true&width=900&lines=%5Bcoun%40BracoIShoota+~%5D%23+./dead+--target+braco.com" />
 </div>
 <img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
 
