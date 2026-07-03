@@ -40,7 +40,7 @@
 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/31/a5/a5/31a5a5c3a37f2d72fc0b832b3f876826.gif" width="100%" style="max-width: 1200px; border-radius: 8px; margin: 20px 0;  />
+  <img src="https://i.pinimg.com/originals/c7/23/b3/c723b34b8095f254ae06d5f5a13dad27.gif" width="100%" style="max-width: 1200px; border-radius: 8px; margin: 20px 0;  />
    <h1>私の弓は何ですか</h1>
 </div>
 
