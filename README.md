@@ -56,7 +56,7 @@
 </div>
 
 
-<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
+
 
 <div align="center">
   <strong>Solidon</strong><br><br>
