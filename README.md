@@ -3,7 +3,7 @@
   <h1>デル・ピエロは違った</h1>
 </div>
 <img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
----
+
 
 ### スタークは最高だった 
 ㅤㅤ
@@ -13,7 +13,7 @@
 ㅤㅤ
 ㅤㅤ
 ㅤㅤ
----
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ### デオキシスの最高のポケモン
 
@@ -23,7 +23,7 @@
 ![MSI](https://img.shields.io/badge/msi-%23000000.svg?style=for-the-badge&logo=msi&logoColor=%23FF0000)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
----
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ### 薬剤師の不正行為
 
@@ -34,7 +34,7 @@
 ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
 ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
----
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 
 
@@ -43,7 +43,7 @@
    <h1>私の弓は何ですか</h1>
 </div>
 
----
+<img src="https://github.com/MMVonnSeek/MMVonnSeek/blob/main/assets/rainbow-superthin.webp" width="100%" loading="lazy">
 
 ### ドリルストリーク
 
