@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/736x/2a/b8/56/2ab856bdea4cf4577025f7f32daa2b66.jpg" />
+  <img src="https://i.pinimg.com/1200x/8b/32/a6/8b32a6a5c680e2831b3f135f496270ca.jpg" />
   <h1>デル・ピエロは違った</h1>
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=14000&color=2323FF&background=0D0D0D&center=true&vCenter=true&width=900&lines=%5Bcoun%40BracoIShoota+~%5D%23+./dead+--target+braco.com" />
 </div>
