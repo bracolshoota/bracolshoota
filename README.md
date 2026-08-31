@@ -48,9 +48,9 @@ const braco = {
 
 </td>
 
-<td width="72%" align="center">
+<td width="100%" align="center">
 
-<img src="https://i.pinimg.com/736x/7a/6c/37/7a6c376a9055ceea22338afb55c46f97.jpg" width="700"/>
+<img src="https://i.pinimg.com/736x/7a/6c/37/7a6c376a9055ceea22338afb55c46f97.jpg" width="900"/>
 
 </td>
 </tr>
