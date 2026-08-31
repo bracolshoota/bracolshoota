@@ -50,7 +50,7 @@ const braco = {
 
 <td width="42%" align="center">
 
-<img src="https://i.pinimg.com/1200x/bb/83/55/bb835526a6536e4e61a1b0ced4ac3c6f.jpg" width="400"/>
+<img src="https://i.pinimg.com/736x/7a/6c/37/7a6c376a9055ceea22338afb55c46f97.jpg" width="400"/>
 
 </td>
 </tr>
