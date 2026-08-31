@@ -16,7 +16,7 @@
 ㅤㅤ
 
 <div align="center">
-### デオキシスの最高のポケモン
+
 
 
 ![Black](https://img.shields.io/badge/black-%23000000.svg?style=for-the-badge&logo=black&logoColor=white)
