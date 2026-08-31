@@ -14,7 +14,7 @@
 
 
 ```typescript
-const sairaj = {
+const braco = {
     role: "AI & Data Science Undergrad'28",
     location: "India 🇮🇳",
 
