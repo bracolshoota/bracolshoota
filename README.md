@@ -48,7 +48,7 @@
 
 ### ドリルストリーク
 
-![Streak](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)
+![Streak](https://streak-stats.demolab.com?user=dvskullz&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF")
 
 <img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
 <div align="center">
