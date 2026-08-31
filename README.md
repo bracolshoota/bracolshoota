@@ -48,7 +48,7 @@ const braco = {
 
 </td>
 
-<td width="42%" align="center">
+<td width="72%" align="center">
 
 <img src="https://i.pinimg.com/736x/7a/6c/37/7a6c376a9055ceea22338afb55c46f97.jpg" width="400"/>
 
