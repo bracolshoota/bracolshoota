@@ -93,9 +93,9 @@ const braco = {
 
 <img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
 
-### ドリルストリーク
 
-[![Braco](https://github-readme-activity-graph.vercel.app/graph?username=bracolshoota)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
