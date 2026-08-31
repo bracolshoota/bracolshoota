@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/7a/b1/58/7ab158a550ec60d17099218cc1698b67.gif" widht="80"/>
+<img src="https://i.pinimg.com/1200x/07/a4/a9/07a4a906776dfc7ed7ac4bb4c7d4ba6b.jpg" widht="80"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+MERN+Developer;Building+AI+Powered+Systems;Open+Source+Contributor;Data+Structure+Algorithm;Always+Learning+Something+New+%F0%9F%9A%80" />
