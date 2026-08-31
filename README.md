@@ -15,7 +15,7 @@
 ㅤㅤ
 ㅤㅤ
 
-
+<div align="center">
 ### デオキシスの最高のポケモン
 
 
@@ -23,7 +23,7 @@
 ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
 ![MSI](https://img.shields.io/badge/msi-%23000000.svg?style=for-the-badge&logo=msi&logoColor=%23FF0000)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
+</div>
 <img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
 
 ### 薬剤師の不正行為
