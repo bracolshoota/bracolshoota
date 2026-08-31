@@ -1,5 +1,6 @@
+<td width="42%" align="center">
   <img src="https://i.pinimg.com/originals/c6/4d/7f/c64d7f5f480bbeec2e0ea1a8ec6cb555.gif" />
-
+</td>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+MERN+Developer;Building+AI+Powered+Systems;Open+Source+Contributor;Data+Structure+Algorithm;Always+Learning+Something+New+%F0%9F%9A%80" />
