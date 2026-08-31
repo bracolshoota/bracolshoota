@@ -66,7 +66,10 @@ const braco = {
 "I set my fangs on fire to reach the unattainable So I wouldn't have to face that star And wouldn't have to tear my throat"
 ㅤㅤ
 ㅤㅤ
-ㅤㅤ
+ㅤ<p align="center">
+<br>
+  ${\textsf{\color{#5387C5}─────────────────────────────────}}$
+</p>ㅤ
 ㅤㅤ
 
 <div align="center">
