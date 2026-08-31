@@ -1,5 +1,5 @@
 <td width="100%" align="center">
-  <img src="https://i.pinimg.com/originals/c6/4d/7f/c64d7f5f480bbeec2e0ea1a8ec6cb555.gif" />
+  <img src="https://i.pinimg.com/originals/c6/4d/7f/c64d7f5f480bbeec2e0ea1a8ec6cb555.gif width="400"/>
 </td>
 
 <p align="center">
