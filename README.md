@@ -48,7 +48,7 @@
 
 ### ドリルストリーク
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEUUSERNAME&theme=tokyonight&hide_border=true)
+![Streak](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117)
 
 <img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
 <div align="center">
