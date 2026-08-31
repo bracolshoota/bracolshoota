@@ -1,8 +1,9 @@
 <img src="https://i.pinimg.com/1200x/07/a4/a9/07a4a906776dfc7ed7ac4bb4c7d4ba6b.jpg" widht="80"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=DEAD;
-    INDICTED; CHOSEN ;Open+Source+Contributor;Data+Structure+Algorithm;Always+Learning+Something+New+%F0%9F%9A%80" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+MERN+Developer;Building+AI+Powered+Systems;Open+Source+Contributor;Data+Structure+Algorithm;Always+Learning+Something+New+%F0%9F%9A%80" />
+</p>
 </p>
 
 
