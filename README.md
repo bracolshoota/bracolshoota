@@ -56,7 +56,10 @@ const braco = {
 
 <br>
 </div>
-<img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
+<br>
+${\textsf{\color{#5387C5}───────────────────────────────────────────────────────────────────────────────────────────}}$ 
+</p>ㅤ
+ㅤㅤ
 
 
 ### スタークは最高だった 
@@ -67,9 +70,7 @@ const braco = {
 ㅤㅤ
 ㅤㅤ
 ㅤ<p align="center">
-<br>
-${\textsf{\color{#5387C5}───────────────────────────────────────────────────────────────────────────────────────────}}$ 
-</p>ㅤ
+
 ㅤㅤ
 
 <div align="center">
