@@ -42,7 +42,8 @@ const sairaj = {
 
 <br>
 
-<img src="https://i.pinimg.com/736x/52/63/ef/5263efb1dab473e7d64bf24cbf5ca1b4.jpg" widht="80"/>
+<img src="https://i.pinimg.com/originals/7a/b1/58/7ab158a550ec60d17099218cc1698b67.gif" widht="80"/>
+
 
 </td>
 
