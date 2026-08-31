@@ -95,7 +95,7 @@ const sairaj = {
 
 ### ドリルストリーク
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bracolshoota&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
 
 
