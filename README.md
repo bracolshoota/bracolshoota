@@ -48,7 +48,7 @@ const sairaj = {
 
 <td width="42%" align="center">
 
-<img src="https://64.media.tumblr.com/fe4f5cf2401ff266b34ef82791f11734/7e66e38f766b84c0-8a/s500x750/be2e2aca769f0a671dd8e32d55cae58f12e82460.gif" width="360"/>
+<img src="https://i.pinimg.com/1200x/bb/83/55/bb835526a6536e4e61a1b0ced4ac3c6f.jpg" width="360"/>
 
 </td>
 </tr>
