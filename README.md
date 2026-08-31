@@ -2,7 +2,7 @@
 
 <p align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=%E5%B8%B8%E3%81%AB%E8%B2%AC%E3%82%81%E3%82%92%E8%B2%A0%E3%81%86%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AA%E3%82%8B%E4%BA%BA;%E4%BA%A1%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E4%BA%BA;%E8%87%AA%E5%88%86%E3%81%AE%E5%86%85%E5%81%B4%E3%81%AB%E8%BF%B7%E3%81%84%E8%BE%BC%E3%82%93%E3%81%A0%E5%B0%91%E5%B9%B4" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=FFFFFF&center=true&vCenter=true&width=700&lines=%E5%B8%B8%E3%81%AB%E8%B2%AC%E3%82%81%E3%82%92%E8%B2%A0%E3%81%86%E3%81%93%E3%81%A8%E3%81%AB%E3%81%AA%E3%82%8B%E4%BA%BA;%E4%BA%A1%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%9F%E4%BA%BA;%E8%87%AA%E5%88%86%E3%81%AE%E5%86%85%E5%81%B4%E3%81%AB%E8%BF%B7%E3%81%84%E8%BE%BC%E3%82%93%E3%81%A0%E5%B0%91%E5%B9%B4" />
 </p>
 </p>
 
