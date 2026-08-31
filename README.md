@@ -1,3 +1,60 @@
+<img width="100%" src="/assets/Sairaj_Banner.png"/>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+MERN+Developer;Building+AI+Powered+Systems;Open+Source+Contributor;Data+Structure+Algorithm;Always+Learning+Something+New+%F0%9F%9A%80" />
+</p>
+
+
+## 🎯 About Me
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+
+
+```typescript
+const sairaj = {
+    role: "AI & Data Science Undergrad'28",
+    location: "India 🇮🇳",
+
+    building: [
+        "AI & ML Systems",
+        "Full Stack Projects"
+    ],
+
+    learning: [
+        "Machine Learning",
+        "Advanced MERN",
+        "DSA",
+        "System Design"
+    ],
+
+    tech: {
+        frontend: ["React", "Next.js", "Tailwind"],
+        backend: ["Node.js", "Express"],
+        ai: ["TensorFlow", "Scikit-learn"],
+        database: ["MongoDB", "MySQL"]
+    }
+};
+```
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</td>
+
+<td width="42%" align="center">
+
+<img src="https://64.media.tumblr.com/fe4f5cf2401ff266b34ef82791f11734/7e66e38f766b84c0-8a/s500x750/be2e2aca769f0a671dd8e32d55cae58f12e82460.gif" width="360"/>
+
+</td>
+</tr>
+</table>
+
+<br>
 <div align="center">
   <img src="https://i.pinimg.com/1200x/8b/32/a6/8b32a6a5c680e2831b3f135f496270ca.jpg" />
   <h1>デル・ピエロは違った</h1>
