@@ -95,8 +95,7 @@ const sairaj = {
 
 ### ドリルストリーク
 
-![Streak](https://camo.githubusercontent.com/733e82af6ac8785f6c70e88d799fa0f7c284bd26d8e01e4ea4003bc5beb2d37c/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d616e647265772d76656c6f7826636f756e745f707269766174653d74727565267468656d653d6d69646e696768742d707572706c6526686964655f626f726465723d74727565)
-![Streak](https://github.com/Andrew-Velox/Andrew-Velox/blob/main/.github/assets/stats.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bracolshoota&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
 
 
