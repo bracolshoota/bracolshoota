@@ -42,7 +42,7 @@ const sairaj = {
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+<img src="https://i.pinimg.com/736x/97/3c/89/973c89a0e212e89558dc9c01de5c9ac1.jpg"/>
 
 </td>
 
