@@ -1,4 +1,4 @@
-<img width="100%" src="/assets/Sairaj_Banner.png"/>
+  <img src="https://i.pinimg.com/1200x/8b/32/a6/8b32a6a5c680e2831b3f135f496270ca.jpg" />
 
 
 <p align="center">
