@@ -52,7 +52,7 @@
 ### ドリルストリーク
 
 ![Streak](https://streak-stats.demolab.com?user=dvskullz&theme=dark&background=0D0D0D&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF")
-
+![Streak](https://github.com/Andrew-Velox/Andrew-Velox/blob/main/.github/assets/stats.svg)
 <img src="https://github.com/bracolshoota/5/blob/main/violetblue-ezgif.com-remove-background.gif" width="100%" loading="lazy">
 <div align="center">
 あなたを信頼しなければならないから
