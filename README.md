@@ -135,7 +135,6 @@ ${\textsf{\color{#5387C5}──────────────────�
 
 
 <div align="center">
-  <strong>Solidon</strong><br><br>
   <a href="https://instagram.com/seuuser">
     <img src="![Black](https://img.shields.io/badge/black-%23000000.svg?style=for-the-badge&logo=black&logoColor=white)" />
   </a>
