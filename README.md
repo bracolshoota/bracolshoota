@@ -72,23 +72,23 @@ ${\textsf{\color{#5387C5}──────────────────�
 ㅤㅤ
 ### Beneath a cloak of cherry red, Where petals dance and shadows tread,
 
-He hides a gaze of heavy years, A quiet strength that masks his tears.
+### He hides a gaze of heavy years, A quiet strength that masks his tears.
 
-With sake cup and lazy sigh, He watches clouds drift through the sky.
+### With sake cup and lazy sigh, He watches clouds drift through the sky.
 
-A lover of the gentle breeze, A man at ease beneath the trees.
+### A lover of the gentle breeze, A man at ease beneath the trees.
 
-Yet do not mistake the playful smile, Or think his duty rests a while.
+### Yet do not mistake the playful smile, Or think his duty rests a while.
 
-When steel is drawn and games begin, No mortal soul can hope to win.
+### When steel is drawn and games begin, No mortal soul can hope to win.
 
-The rules are set, the shadows play, Where life and death give way to grey.
+### The rules are set, the shadows play, Where life and death give way to grey.
 
-And in the dark of theater stage, A tragic waltz turns every page.
+### And in the dark of theater stage, A tragic waltz turns every page.
 
-Two lovers bound in crimson thread, Together walking toward the dead.
+### Two lovers bound in crimson thread, Together walking toward the dead.
 
-For he who wears the flower shawl, Is the deepest soul of soul society all.
+### For he who wears the flower shawl, Is the deepest soul of soul society all.
 ㅤㅤ
 ㅤㅤ
 ㅤ<p align="center">
