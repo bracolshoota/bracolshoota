@@ -103,7 +103,7 @@ ${\textsf{\color{#5387C5}──────────────────�
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bracolshoota&show_icons=true)
+
 
 
 
