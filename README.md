@@ -94,7 +94,11 @@ ${\textsf{\color{#5387C5}──────────────────�
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 </div>
 
-
+<p align="center">
+<br>
+${\textsf{\color{#5387C5}───────────────────────────────────────────────────────────────────────────────────────────}}$ 
+</p>ㅤ
+ㅤㅤ
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/a5/28/87/a5288761882e23b0e71095ed3c5c1fa3.gif" width="100%" style="max-width: 1200px; border-radius: 8px; margin: 20px 0;  />
