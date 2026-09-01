@@ -70,7 +70,7 @@ ${\textsf{\color{#5387C5}──────────────────�
 
 
 ㅤㅤ
-Beneath a cloak of cherry red, Where petals dance and shadows tread,
+### Beneath a cloak of cherry red, Where petals dance and shadows tread,
 
 He hides a gaze of heavy years, A quiet strength that masks his tears.
 
