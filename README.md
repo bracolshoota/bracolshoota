@@ -64,7 +64,7 @@ const braco = {
 ${\textsf{\color{#5387C5}───────────────────────────────────────────────────────────────────────────────────────────}}$ 
 </p>ㅤ
 ㅤㅤ
-
+<div align="center">
 
 ### スタークは最高だった 
 
@@ -115,4 +115,5 @@ ${\textsf{\color{#5387C5}──────────────────�
   <a href="https://instagram.com/seuuser">
     <img src="![Black](https://img.shields.io/badge/black-%23000000.svg?style=for-the-badge&logo=black&logoColor=white)" />
   </a>
+</div>
 </div>
