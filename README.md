@@ -17,26 +17,27 @@
 
 ```typescript
 const braco = {
-    role: "AI & Data Science Undergrad'28",
-    location: "India 🇮🇳",
+日本語
+孤独な狼
 
-    building: [
-        "AI & ML Systems",
-        "Full Stack Projects"
-    ],
+空に浮かぶ
 
-    learning: [
-        "Machine Learning",
-        "Advanced MERN",
-        "DSA",
-        "System Design"
-    ],
+一人の影
+力を分け
 
-    tech: {
-        frontend: ["React", "Next.js", "Tailwind"],
-        backend: ["Node.js", "Express"],
-        ai: ["TensorFlow", "Scikit-learn"],
-        database: ["MongoDB", "MySQL"]
+リリネットと共に
+
+虚無を抱く
+最強ゆえに
+
+誰も近づけず
+
+ただ寂しい
+セロス・オスクーラス
+
+黒き光が
+
+全てを消す
     }
 };
 ```
