@@ -44,14 +44,14 @@ const braco = {
 
 <br>
 
-<img src="https://i.pinimg.com/736x/95/a9/d6/95a9d67865e144fa342cfc5b1a2df932.jpg" widht="80"/>
+<img src="https://i.pinimg.com/originals/09/ac/70/09ac70683039e18da8a3d2523da6841e.gif" widht="80"/>
 
 
 </td>
 
 <td width="100%" align="center">
 
-<img src="https://i.pinimg.com/736x/0a/c7/45/0ac7452bff2db93f9025df667cf4e322.jpg" width="900"/>
+<img src="https://i.pinimg.com/736x/6d/52/09/6d5209d13ca45fa2ee341d3b8c60271d.jpg" width="900"/>
 
 </td>
 </tr>
