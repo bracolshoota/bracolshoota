@@ -51,7 +51,7 @@ const braco = {
 
 <td width="100%" align="center">
 
-<img src="https://i.pinimg.com/736x/bb/aa/2c/bbaa2cd030dfef3f2c048ba6ec97150f.jpg" width="900"/>
+<img src="https://i.pinimg.com/1200x/ed/7b/15/ed7b15f83d3d678fdc224a0124a6c866.jpg" width="900"/>
 
 </td>
 </tr>
