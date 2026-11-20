@@ -119,7 +119,7 @@ ${\textsf{\color{#5387C5}──────────────────�
 ㅤㅤ
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/a5/28/87/a5288761882e23b0e71095ed3c5c1fa3.gif" width="100%" style="max-width: 1200px; border-radius: 8px; margin: 20px 0;  />
+  <img src="https://i.pinimg.com/originals/51/93/e2/5193e238ee0bf4754631f50cd616e7ba.gif" width="100%" style="max-width: 1200px; border-radius: 8px; margin: 20px 0;  />
    <h1>私の弓は何ですか</h1>
 </div>
 
