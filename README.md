@@ -44,7 +44,7 @@ const braco = {
 
 <br>
 
-<img src="https://i.pinimg.com/736x/2e/3b/cd/2e3bcd17aef5b2c1b8a6ca5a77692d78.jpg" widht="80"/>
+<img src="https://i.pinimg.com/1200x/02/44/8d/02448db8cb4aadb25955a8a0a9b677c9.jpg" widht="80"/>
 
 
 </td>
